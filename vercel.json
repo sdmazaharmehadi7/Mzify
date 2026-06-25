@@ -1,0 +1,13 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/$1" }
+  ],
+  "headers": [
+    {
+      "source": "/songs/(.*)",
+      "headers": [
+        { "key": "Content-Type", "value": "audio/mpeg" }
+      ]
+    }
+  ]
+}
