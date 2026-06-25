@@ -1,0 +1,111 @@
+{
+  "albums": [
+    {
+      "folder": "1.Dhurander",
+      "title": "Dhurander",
+      "description": "Movie Songs",
+      "cover": "https://res.cloudinary.com/do1zurhi8/image/upload/v1782411739/cover_s2oifq.jpg",
+      "songs": [
+        {
+          "name": "Ez Ez",
+          "url": "https://res.cloudinary.com/do1zurhi8/video/upload/v1782411753/Ez_Ez_jnoalm.mp3"
+        },
+        {
+          "name": "Title Track",
+          "url": "https://res.cloudinary.com/do1zurhi8/video/upload/v1782411755/Title_Track_u9h2d5.mp3"
+        },
+        {
+          "name": "Gehra Hua",
+          "url": "https://res.cloudinary.com/do1zurhi8/video/upload/v1782411764/Gehra_Hua_x49phm.mp3"
+        },
+        {
+          "name": "Ishq Jalakar",
+          "url": "https://res.cloudinary.com/do1zurhi8/video/upload/v1782411767/Ishq_Jalakar_yvkwpm.mp3"
+        },
+        {
+          "name": "Lutt Le Gaya",
+          "url": "https://res.cloudinary.com/do1zurhi8/video/upload/v1782411768/Lutt_Le_Gaya_btxpdb.mp3"
+        },
+        {
+          "name": "Baloch",
+          "url": "https://res.cloudinary.com/do1zurhi8/video/upload/v1782411779/Baloch_xazwap.mp3"
+        }
+      ]
+    },
+    {
+      "folder": "2.Peddi",
+      "title": "Peddi Album",
+      "description": "Peddi Movie Hindi Tracks",
+      "cover": "https://res.cloudinary.com/do1zurhi8/image/upload/v1782412373/cover_b0d8j8.jpg",
+      "songs": [
+        {
+          "name": "Chikiri Chikiri",
+          "url": "https://res.cloudinary.com/do1zurhi8/video/upload/v1782412439/Chikiri_Chikiri_dm1jqa.mp3"
+        },
+        {
+          "name": "Hellallallo",
+          "url": "https://res.cloudinary.com/do1zurhi8/video/upload/v1782412419/Hellallallo_tof3sy.mp3"
+        },
+        {
+          "name": "Massa Massa",
+          "url": "https://res.cloudinary.com/do1zurhi8/video/upload/v1782412390/Massa_Massa_ljfq1u.mp3"
+        }
+      ]
+    },
+    {
+      "folder": "3.Hindi",
+      "title": "Hindi Album",
+      "description": "Top 30 Hindi Hits",
+      "cover": "https://res.cloudinary.com/do1zurhi8/image/upload/v1782412454/cover_ntuxmh.jpg",
+      "songs": [
+        {
+          "name": "Sajna Tere Liye",
+          "url": "https://res.cloudinary.com/do1zurhi8/video/upload/v1782412462/sajna_tere_liye_cqlzow.mp3"
+        },
+        {
+          "name": "Bhula Dena",
+          "url": "https://res.cloudinary.com/do1zurhi8/video/upload/v1782414772/Bhula_Dena_wznths.mp3"
+        },
+        {
+          "name": "Zara Zara",
+          "url": "https://res.cloudinary.com/do1zurhi8/video/upload/v1782414761/zara-zara_byjttc.mp3"
+        }
+      ]
+    },
+    {
+      "folder": "4.Telugu",
+      "title": "Telugu Hits",
+      "description": "Top Telugu Audio Tracks",
+      "cover": "https://res.cloudinary.com/do1zurhi8/image/upload/v1782414885/cover_lyruvg.jpg",
+      "songs": []
+    },
+    {
+      "folder": "Energy",
+      "title": "Energy Album",
+      "description": "High Energy tracks",
+      "cover": "https://res.cloudinary.com/do1zurhi8/image/upload/v1782415463/cover_p8qftj.jpg",
+      "songs": []
+    },
+    {
+      "folder": "GYM",
+      "title": "GYM",
+      "description": "High Performance Track",
+      "cover": "https://res.cloudinary.com/do1zurhi8/image/upload/v1782415517/cover_tk1gwu.jpg",
+      "songs": []
+    },
+    {
+      "folder": "HollyWood",
+      "title": "Holywood",
+      "description": "Best Hollywood hits",
+      "cover": "https://res.cloudinary.com/do1zurhi8/image/upload/v1782415555/cover_znudqd.jpg",
+      "songs": []
+    },
+    {
+      "folder": "Sleep",
+      "title": "Sleep Tracks",
+      "description": "Best for calm and stressless tracks",
+      "cover": "https://res.cloudinary.com/do1zurhi8/image/upload/v1782415535/cover_l7dcju.jpg",
+      "songs": []
+    }
+  ]
+}
